@@ -1,7 +1,7 @@
 # CodeDesenvolvimentoDeSoftware
 
-![](.pictures/.code.gif)
+![](./pictures/.code.gif)
 
-![](.pictures/.codeD.gif)
+![](./pictures/.codeD.gif)
 
-![](.pictures/.codeDes.gif)
+![](./pictures/.codeDes.gif)
